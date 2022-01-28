@@ -1,4 +1,4 @@
-package koreait.day2;
+package koreait.day02;
 
 public class IntegerData {
 	public static void main(String[] args) {

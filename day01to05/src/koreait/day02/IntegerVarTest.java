@@ -1,4 +1,4 @@
-package koreait.day2;
+package koreait.day02;
 
 public class IntegerVarTest { // 정수를 저장하는 변수 연습
 	//이 자리에서 선언된 변수는 클래스의 필드가 됩니다.
